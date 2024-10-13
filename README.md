@@ -17,52 +17,52 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="90" alt="React Native" />
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="70" height="70" alt="React Native" />
       <br /><strong>React Native</strong>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/2x/html-5.png" width="90" alt="HTML5" />
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/2x/html-5.png" width="70" height="70" alt="HTML5" />
       <br /><strong>HTML5</strong>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/2x/css3.png" width="90" alt="CSS3" />
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/2x/css3.png" width="70" height="70" alt="CSS3" />
       <br /><strong>CSS3</strong>
     </td>
-    <td align="center">
-      <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="90" alt="JavaScript" />
+    <td align="center" width="120">
+      <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="70" height="70" alt="JavaScript" />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/typescript.png" width="90" alt="TypeScript" />
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/48/000000/typescript.png" width="70" height="70" alt="TypeScript" />
       <br /><strong>TypeScript</strong>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-Image.png" width="90" alt="Python" />
+    <td align="center" width="120">
+      <img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-Image.png" width="70" height="70" alt="Python" />
       <br /><strong>Python</strong>
     </td>
-    <td align="center">
-      <img src="https://lenguajesdeprogramacion.net/wp-content/uploads/2018/02/Lenguaje-de-programacion-Ruby-300x200.png" width="90" alt="Ruby" />
+    <td align="center" width="120">
+      <img src="https://lenguajesdeprogramacion.net/wp-content/uploads/2018/02/Lenguaje-de-programacion-Ruby-300x200.png" width="70" height="70" alt="Ruby" />
       <br /><strong>Ruby</strong>
     </td>
-    <td align="center">
-      <img src="https://logodix.com/logo/283001.png" width="90" alt="Java" />
+    <td align="center" width="120">
+      <img src="https://logodix.com/logo/283001.png" width="70" height="70" alt="Java" />
       <br /><strong>Java</strong>
     </td>
-    <td align="center">
-      <img src="https://glot.io/static/img/dart.svg.png?etag=gODPr045" width="90" alt="Dart" />
-      <br /><strong>Flutter</strong>
+    <td align="center" width="120">
+      <img src="https://glot.io/static/img/dart.svg.png?etag=gODPr045" width="70" height="70" alt="Dart" />
+      <br /><strong>Dart</strong>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/344/lua-language.png" width="90" alt="Lua" />
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/344/lua-language.png" width="70" height="70" alt="Lua" />
       <br /><strong>Lua</strong>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://th.bing.com/th/id/OIP.DjO9lt4rFay46XaBasR7TAAAAA?rs=1&pid=ImgDetMain" width="90" alt="C" />
+    <td align="center" width="120">
+      <img src="https://th.bing.com/th/id/OIP.DjO9lt4rFay46XaBasR7TAAAAA?rs=1&pid=ImgDetMain" width="70" height="70" alt="C" />
       <br /><strong>C</strong>
     </td>
     <td colspan="4"></td>
