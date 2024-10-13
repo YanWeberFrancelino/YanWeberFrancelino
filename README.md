@@ -13,6 +13,12 @@
 
 ---
 
+## 🐍 Snake Game – Watch the Snake Eat My Contributions!
+
+![Snake animation](https://github.com/YanWeberFrancelino/YanWeberFrancelino/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🖥️ Languages
 
 <table>
