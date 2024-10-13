@@ -2,6 +2,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<a href="https://github.com/YanWeberFrancelino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanWeberFrancelino&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
+</a>
+<a href="https://github.com/YanWeberFrancelino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanWeberFrancelino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+</a>
+
+---
+
 ## 🔧 Tech Stack & Tools
 
 <table>
@@ -51,23 +62,12 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="90" alt="C" />
+      <img src="https://glot.io/static/img/dart.svg.png?etag=gODPr045" width="90" alt="C" />
       <br /><strong>C</strong>
     </td>
     <td colspan="4"></td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/YanWeberFrancelino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanWeberFrancelino&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
-</a>
-<a href="https://github.com/YanWeberFrancelino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanWeberFrancelino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-</a>
 
 ---
 
