@@ -13,14 +13,10 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🖥️ Languages
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="70" height="70" alt="React Native" />
-      <br /><strong>React Native</strong>
-    </td>
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/2x/html-5.png" width="70" height="70" alt="HTML5" />
       <br /><strong>HTML5</strong>
@@ -37,12 +33,12 @@
       <img src="https://img.icons8.com/fluency/48/000000/typescript.png" width="70" height="70" alt="TypeScript" />
       <br /><strong>TypeScript</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-Image.png" width="70" height="70" alt="Python" />
       <br /><strong>Python</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <img src="https://lenguajesdeprogramacion.net/wp-content/uploads/2018/02/Lenguaje-de-programacion-Ruby-300x200.png" width="70" height="70" alt="Ruby" />
       <br /><strong>Ruby</strong>
@@ -59,17 +55,66 @@
       <img src="https://img.icons8.com/color/344/lua-language.png" width="70" height="70" alt="Lua" />
       <br /><strong>Lua</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://th.bing.com/th/id/OIP.DjO9lt4rFay46XaBasR7TAAAAA?rs=1&pid=ImgDetMain" width="70" height="70" alt="C" />
       <br /><strong>C</strong>
     </td>
-    <td colspan="4"></td>
   </tr>
 </table>
 
 ---
+
+## 🔧 Tools & Frameworks
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="70" height="70" alt="React" />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://glot.io/static/img/dart.svg.png?etag=gODPr045" width="70" height="70" alt="Flutter" />
+      <br /><strong>Flutter</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/2x/bootstrap.png" width="70" height="70" alt="Bootstrap" />
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="70" height="70" alt="Laravel" />
+      <br /><strong>Laravel</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/2x/docker.png" width="70" height="70" alt="Docker" />
+      <br /><strong>Docker</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="70" height="70" alt="VS Code" />
+      <br /><strong>VS Code</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/git.png" width="70" height="70" alt="Git" />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="70" height="70" alt="Node.js" />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/2x/webpack.png" width="70" height="70" alt="Webpack" />
+      <br /><strong>Webpack</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/2x/postgresql.png" width="70" height="70" alt="PostgreSQL" />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
 <!--
 ## 🌐 Connect with Me
 
@@ -78,6 +123,6 @@ Feel free to reach out or follow me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YanWeberFrancelino)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YanWeberFrancelino)
 
------>
+-->
 
 Thanks for visiting! 😊
