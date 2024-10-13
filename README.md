@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://th.bing.com/th/id/OIP.lZHtgsqo0gww25bLcpjTqQHaHZ?rs=1&pid=ImgDetMain" width="90" alt="Python" />
+      <img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-Image.png" width="90" alt="Python" />
       <br /><strong>Python</strong>
     </td>
     <td align="center">
@@ -48,7 +48,7 @@
       <br /><strong>Ruby</strong>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png" width="90" alt="Java" />
+      <img src="https://logodix.com/logo/283001.png" width="90" alt="Java" />
       <br /><strong>Java</strong>
     </td>
     <td align="center">
