@@ -99,7 +99,7 @@
       <br /><strong>Git</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="70" height="70" alt="Node.js" />
+      <img src="https://logodix.com/logo/1764882.png" width="70" height="70" alt="Node.js" />
       <br /><strong>Node.js</strong>
     </td>
     <td align="center" width="120">
@@ -107,7 +107,7 @@
       <br /><strong>Webpack</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://img.icons8.com/color/2x/postgresql.png" width="70" height="70" alt="PostgreSQL" />
+      <img src="https://th.bing.com/th/id/OIP.h3OvPP_jA7WtI16nNENnZQHaHa?rs=1&pid=ImgDetMain" width="70" height="70" alt="PostgreSQL" />
       <br /><strong>PostgreSQL</strong>
     </td>
   </tr>
