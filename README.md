@@ -52,7 +52,7 @@
       <br /><strong>Java</strong>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/dart.png" width="90" alt="Dart" />
+      <img src="https://glot.io/static/img/dart.svg.png?etag=gODPr045" width="90" alt="Dart" />
       <br /><strong>Dart</strong>
     </td>
     <td align="center">
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://glot.io/static/img/dart.svg.png?etag=gODPr045" width="90" alt="C" />
+      <img src="" width="90" alt="C" />
       <br /><strong>C</strong>
     </td>
     <td colspan="4"></td>
