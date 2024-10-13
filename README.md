@@ -1,19 +1,54 @@
-# Hello World, I'm Yan, be very welcome
+# 🌍 Hello World, I'm Yan! Be very welcome! 👋
+
+I'm passionate about web development and mobile technologies. Check out my GitHub stats and favorite tech stack below:
+
+---
+
+## 🛠️ Tech Stack
 
 <table>
-  <a href="https://github.com/YanWeberFrancelino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanWeberFrancelino&layout=compact&langs_count=6&theme=tokyonight"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanWeberFrancelino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native" />
+      <br /><strong>React Native</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5" />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3" />
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center">
+      <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript" />
+      <br /><strong>JavaScript</strong>
+    </td>
+  </tr>
 </table>
 
-<!--<div> 
-  <a href="" target="_blank"><img src="" target="_blank"></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="" target="_blank"></a>
-  <a href="https://www.twitch.tv/" target="_blank"><img src="" target="_blank"></a>
-  <a href = "email: .com.br"><img src="" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="" target="_blank"></a> 
-</div>-->
+---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/YanWeberFrancelino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanWeberFrancelino&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+</a>
+<a href="https://github.com/YanWeberFrancelino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanWeberFrancelino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+
+---
+
+<!-- Social Media Links -->
+
+## 🌐 Connect with Me
+
+Feel free to reach out or follow me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YanWeberFrancelino)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YanWeberFrancelino)
+
+---
+
+Thanks for visiting! 😊
