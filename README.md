@@ -70,7 +70,7 @@
 </table>
 
 ---
-
+<!--
 ## 🌐 Connect with Me
 
 Feel free to reach out or follow me on:
@@ -78,6 +78,6 @@ Feel free to reach out or follow me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YanWeberFrancelino)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YanWeberFrancelino)
 
----
+----->
 
 Thanks for visiting! 😊
