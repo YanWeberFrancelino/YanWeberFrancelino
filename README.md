@@ -40,11 +40,11 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/1822/1822920.png" width="90" alt="Python" />
+      <img src="https://th.bing.com/th/id/OIP.lZHtgsqo0gww25bLcpjTqQHaHZ?rs=1&pid=ImgDetMain" width="90" alt="Python" />
       <br /><strong>Python</strong>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/ruby-programming-language.png" width="90" alt="Ruby" />
+      <img src="https://lenguajesdeprogramacion.net/wp-content/uploads/2018/02/Lenguaje-de-programacion-Ruby-300x200.png" width="90" alt="Ruby" />
       <br /><strong>Ruby</strong>
     </td>
     <td align="center">
@@ -53,7 +53,7 @@
     </td>
     <td align="center">
       <img src="https://glot.io/static/img/dart.svg.png?etag=gODPr045" width="90" alt="Dart" />
-      <br /><strong>Dart</strong>
+      <br /><strong>Flutter</strong>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/344/lua-language.png" width="90" alt="Lua" />
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="" width="90" alt="C" />
+      <img src="https://th.bing.com/th/id/OIP.DjO9lt4rFay46XaBasR7TAAAAA?rs=1&pid=ImgDetMain" width="90" alt="C" />
       <br /><strong>C</strong>
     </td>
     <td colspan="4"></td>
