@@ -107,7 +107,7 @@
       <br /><strong>Webpack</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://th.bing.com/th/id/OIP.h3OvPP_jA7WtI16nNENnZQHaHa?rs=1&pid=ImgDetMain" width="70" height="70" alt="PostgreSQL" />
+      <img src="https://th.bing.com/th/id/R.d86c00d4cee013a070c3be50645a631b?rik=v3YhjWyliCxS%2fA&pid=ImgRaw&r=0" width="70" height="70" alt="PostgreSQL" />
       <br /><strong>PostgreSQL</strong>
     </td>
   </tr>
