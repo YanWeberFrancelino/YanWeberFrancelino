@@ -81,8 +81,8 @@
       <br /><strong>Bootstrap</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="70" height="70" alt="Laravel" />
-      <br /><strong>Laravel</strong>
+      <img src="https://logospng.org/download/vite-js/vite-js-4096-logo.png" width="70" height="70" alt="Vite" />
+      <br /><strong>Vite</strong>
     </td>
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/2x/docker.png" width="70" height="70" alt="Docker" />
